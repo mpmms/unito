@@ -1,6 +1,6 @@
-function func1(){
-    window.location.href = 'https://ble.ir/join/EurNFLutxd'
+function tougit(){
+    window.location.href = 'https://github.com/mpmms/unito'
 }
-function tometal(){
-    window.location.href = 'https://mpmms.github.io/mc'
+function topypi(){
+    window.location.href = 'https://pypi.org/project/unito'
 }
